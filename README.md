@@ -1,6 +1,6 @@
 # Predictive Analytics - Churnometer
 
-[Check here](churnometer-goncalves95-5fb695192d5b.herokuapp.com/)
+[Check here](https://churnometer-goncalves95-5fb695192d5b.herokuapp.com/)
 
 ## How to use this repo
 
