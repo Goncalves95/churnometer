@@ -1,3 +1,7 @@
+# Predictive Analytics - Churnometer
+
+[Check here](churnometer-goncalves95-5fb695192d5b.herokuapp.com/)
+
 ## How to use this repo
 
 1. Fork this repo and copy the https URL of your forked churnometer repo
